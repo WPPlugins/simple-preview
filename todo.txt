@@ -1,0 +1,6 @@
+Need to do:
+
+Done:
+- Bug: authors cannot "preview" posts in normal way when editing. See: http://wordpress.org/support/topic/simple-preview-not-working
+- Bug: scheduled post. See: http://wordpress.org/support/topic/plugin-simple-preview-add-option-for-default-behavior-allow-anonymous-preview
+- Check on WP version 3.6
